@@ -1,0 +1,271 @@
+[2023-05-27 15:32:29] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 15:32:29] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 15:32:29] [ INFO ] [AuthenticationService:38] paso al auth service authentication
+ [2023-05-27 15:36:09] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 15:36:09] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 15:36:09] [ INFO ] [AuthenticationService:38] paso al auth service authentication
+ [2023-05-27 15:36:09] [ INFO ] [AuthenticationService:47] paso al auth service authentication 2
+ [2023-05-27 15:36:34] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 15:36:34] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 15:36:34] [ INFO ] [AuthenticationService:38] paso al auth service authentication
+ [2023-05-27 15:36:34] [ INFO ] [AuthenticationService:47] paso al auth service authentication 2
+ [2023-05-27 15:36:46] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 15:36:46] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 15:36:46] [ INFO ] [AuthenticationService:38] paso al auth service authentication
+ [2023-05-27 15:36:56] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 15:36:56] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 15:36:56] [ INFO ] [AuthenticationService:38] paso al auth service authentication
+ [2023-05-27 15:36:56] [ INFO ] [AuthenticationService:47] paso al auth service authentication 2
+ [2023-05-27 15:43:35] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 15:43:35] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 15:43:35] [ INFO ] [AuthenticationService:38] paso al auth service authentication
+ [2023-05-27 15:43:35] [ INFO ] [AuthenticationService:47] o el usuario no existe o bad credentials
+ [2023-05-27 15:44:51] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 15:44:51] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 15:44:51] [ INFO ] [AuthenticationService:38] paso al auth service authentication
+ [2023-05-27 16:04:41] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 16:04:41] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 16:04:41] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-27 16:04:46] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 16:04:46] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 16:04:46] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-27 16:04:46] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-27 16:05:32] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 16:05:32] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 16:05:32] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-27 16:05:32] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-27 17:14:46] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 17:14:46] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 17:14:46] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-27 17:14:46] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-27 17:14:48] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 17:14:48] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 17:14:48] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-27 17:14:48] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-27 17:14:49] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 17:14:49] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 17:14:49] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-27 17:14:49] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-27 17:14:49] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 17:14:49] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 17:14:49] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-27 17:14:49] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-27 17:14:49] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 17:14:49] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 17:14:49] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-27 17:14:49] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-27 17:17:31] [ INFO ] [UsuarioController:31] controller
+ [2023-05-27 17:17:31] [ INFO ] [UsuarioController:33] controller
+ [2023-05-27 17:17:31] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-27 17:17:31] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 15:34:05] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 15:34:05] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 15:34:05] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 15:34:05] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 15:55:53] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 15:55:53] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 15:55:53] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 15:55:53] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 15:56:29] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 15:56:29] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 15:56:29] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 15:56:29] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:02:28] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:02:28] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:02:28] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:02:28] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:05:40] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:05:40] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:05:40] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:05:40] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:05:54] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:05:54] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:05:54] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:05:55] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:13:24] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:13:24] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:13:24] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:13:24] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:33:30] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:33:30] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:33:30] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:33:31] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:33:31] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:33:31] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:33:44] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:33:44] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:33:44] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:33:44] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:33:54] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:33:54] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:33:54] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:34:49] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:34:49] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:34:49] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:34:50] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:34:55] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:34:55] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:34:55] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:35:42] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:35:42] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:35:42] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:37:34] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:37:34] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:37:34] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:40:30] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:40:30] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:40:30] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:40:31] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:40:37] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:40:37] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:40:37] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:40:39] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:40:39] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:40:39] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:43:35] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:43:35] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:43:35] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:43:35] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:43:41] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:43:41] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:43:41] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:45:01] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:45:01] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:45:01] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:45:01] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:45:07] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:45:07] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:45:07] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:48:20] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:48:20] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:48:20] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:48:20] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:50:50] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:50:50] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:50:50] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:50:50] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:52:26] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:52:26] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:52:26] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:52:26] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:52:57] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:52:57] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:52:57] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:52:57] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:53:13] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:53:13] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:53:13] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:53:13] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:54:22] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:54:22] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:54:22] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:54:22] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:55:29] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:55:29] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:55:29] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:55:29] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:55:37] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:55:37] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:55:37] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 16:55:38] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 16:56:50] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 16:56:50] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 16:56:50] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:00:19] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:00:19] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:00:19] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:00:19] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 17:00:25] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:00:25] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:00:25] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:02:57] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:02:57] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:02:57] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:02:57] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 17:03:01] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:03:01] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:03:01] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:04:38] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:04:38] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:04:38] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:04:38] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 17:04:43] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:04:43] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:04:43] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:05:45] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:05:45] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:05:45] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:06:06] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:06:06] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:06:06] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:06:19] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:06:19] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:06:19] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:06:57] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:06:57] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:06:57] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:07:45] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:07:45] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:07:45] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:08:28] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:08:28] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:08:28] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:08:41] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:08:41] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:08:41] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:09:13] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:09:13] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:09:13] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:10:11] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:10:11] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:10:11] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:13:44] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:13:44] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:13:44] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:14:57] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:14:57] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:14:57] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:15:24] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:15:24] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:15:24] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:15:27] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:15:27] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:15:27] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:15:28] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:15:28] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:15:28] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:15:30] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:15:30] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:15:30] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:24:42] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:24:42] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:24:42] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:24:42] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 17:24:56] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:24:56] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:24:56] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:24:57] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:24:57] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:24:57] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:24:58] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:24:58] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:24:58] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:24:59] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:24:59] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:24:59] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:25:14] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 17:25:14] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 17:25:14] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 17:25:14] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 18:11:28] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 18:11:28] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 18:11:28] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 18:11:36] [ INFO ] [UsuarioController:32] controller
+ [2023-05-29 18:11:36] [ INFO ] [UsuarioController:34] controller
+ [2023-05-29 18:11:36] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 18:11:36] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 19:14:33] [ INFO ] [UsuarioController:31] controller
+ [2023-05-29 19:14:33] [ INFO ] [UsuarioController:33] controller
+ [2023-05-29 19:14:33] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
+ [2023-05-29 19:14:34] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ 
