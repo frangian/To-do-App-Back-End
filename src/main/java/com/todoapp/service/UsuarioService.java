@@ -11,6 +11,8 @@ public class UsuarioService {
 
     private final UsuarioRepository usuarioRepository;
 
-
+//    public Usuario getUsuario (Usuario usuario){
+//        return usuarioRepository.findById(Usuario usuario.getId());
+//    }
 
 }

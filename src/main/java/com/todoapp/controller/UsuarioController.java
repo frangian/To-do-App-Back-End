@@ -1,15 +1,15 @@
 package com.todoapp.controller;
 
-import com.todoapp.config.security.AuthenticationRequest;
-import com.todoapp.config.security.AuthenticationResponse;
-import com.todoapp.config.security.AuthenticationService;
-import com.todoapp.config.security.RegisterRequest;
+import com.todoapp.config.security.*;
 import com.todoapp.entity.Usuario;
 import com.todoapp.service.UsuarioService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.*;
+import java.util.HashMap;
+import java.util.Map;
 
 @RestController
 @Log4j
@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/api/v1/usuario")
 public class UsuarioController {
 
-    private final UsuarioService usuarioService;
-
     private final AuthenticationService authService;
+
+    //    private final UsuarioService usuarioService;
 
     @PostMapping("auth/registro")
     public ResponseEntity<AuthenticationResponse> registroUsuario (@RequestBody RegisterRequest request){
@@ -28,18 +28,21 @@ public class UsuarioController {
 
     @PostMapping("auth/login")
     public ResponseEntity<AuthenticationResponse> authenticate(@RequestBody AuthenticationRequest request){
-        log.info("controller");
         try {
-        log.info("controller");
             return ResponseEntity.ok(authService.authenticate(request));
         } catch (Exception e){
             throw new RuntimeException(e.getMessage());
         }
     }
 
-    @GetMapping
-    public ResponseEntity<String> buscarUsuario(){
-        return ResponseEntity.ok("Usuario");
+    @GetMapping("/me")
+    public ResponseEntity<?> getUserProfile(@AuthenticationPrincipal Usuario usuario) {
+        Map<String, Object> response = new HashMap<>();
+        response.put("username", usuario.getUsername());
+        response.put("nombre", usuario.getNombre());
+        response.put("apellido", usuario.getApellido());
+
+        return ResponseEntity.ok().body(response);
     }
 
 }
