@@ -268,4 +268,10 @@
  [2023-05-29 19:14:33] [ INFO ] [UsuarioController:33] controller
  [2023-05-29 19:14:33] [ INFO ] [AuthenticationService:38] verificando las credenciales del usuario
  [2023-05-29 19:14:34] [ INFO ] [AuthenticationService:45] paso el auth login exitosamente, retornando la informacion del usuario
+ [2023-05-29 20:01:30] [ INFO ] [UsuarioController:31] controller
+ [2023-05-29 20:01:30] [ INFO ] [UsuarioController:33] controller
+ [2023-05-29 20:02:20] [ INFO ] [UsuarioController:31] controller
+ [2023-05-29 20:02:20] [ INFO ] [UsuarioController:33] controller
+ [2023-05-29 20:02:37] [ INFO ] [UsuarioController:31] controller
+ [2023-05-29 20:02:37] [ INFO ] [UsuarioController:33] controller
  
