@@ -2,7 +2,6 @@ package com.todoapp.controller;
 
 import com.todoapp.config.security.*;
 import com.todoapp.entity.Usuario;
-import com.todoapp.service.UsuarioService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j;
 import org.springframework.http.ResponseEntity;
@@ -14,6 +13,7 @@ import java.util.Map;
 @RestController
 @Log4j
 @RequiredArgsConstructor
+@CrossOrigin(origins = "*")
 @RequestMapping("/api/v1/usuario")
 public class UsuarioController {
 
